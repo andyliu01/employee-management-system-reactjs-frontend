@@ -1,3 +1,7 @@
+employee-management-system-reactjs-frontend
+
+![EMS](https://github.com/user-attachments/assets/1e7b637f-7f24-494d-a675-0161b8016d20)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
